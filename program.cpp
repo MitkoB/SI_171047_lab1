@@ -10,6 +10,7 @@ cout<<" MitkoBelmezov "<<endl;
 
 void printMyIndex () {
 	//TODO
+cout<<"171047"<<endl;
 }
 
 int main () {
